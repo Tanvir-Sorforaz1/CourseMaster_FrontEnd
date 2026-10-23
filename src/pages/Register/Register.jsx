@@ -133,6 +133,7 @@ export default function Register() {
                         </div>
 
                         <button
+                            type="submit"
                             disabled={loading}
                             className="btn btn-primary w-full btn-lg shadow-lg hover:shadow-xl mt-6"
                         >
